@@ -1,2 +1,2 @@
-# Latent Semantic Analysis for Text Segmentation
- based on Journal: Latent Semantic Analysis for Text Segmentation
+# Latent Semantic Analysis and Text Segmentation
+Improving text segmentation on Alquran verses in Indonesian using latent semantic analysis/latent semantic indexing. This project was a collaboration with my colleague in Information Technology at Telkom University, Yandi. The used methods are based on a journal by Freddy Y. Y. Choi, Peter Wiemer-Hastings, and Johanna Moore: "Latent Semantic Analysis for Text Segmentation".
